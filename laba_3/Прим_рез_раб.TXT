@@ -1,0 +1,72 @@
+-------------------------
+0:0:0
+Vendor ID: 10DE Nvidia Corp
+Device ID: 01E0 Realtek AC'97 Audio
+-------------------------
+0:0:1
+Vendor ID: 10DE Nvidia Corp
+Device ID: 01EB nForce2 Memory Controller
+-------------------------
+0:0:2
+Vendor ID: 10DE Nvidia Corp
+Device ID: 01EE nForce2 Memory Controller
+-------------------------
+0:0:3
+Vendor ID: 10DE Nvidia Corp
+Device ID: 01ED nForce2 Memory Controller
+-------------------------
+0:0:4
+Vendor ID: 10DE Nvidia Corp
+Device ID: 01EC nForce2 Memory Controller
+-------------------------
+0:0:5
+Vendor ID: 10DE Nvidia Corp
+Device ID: 01EF nForce2 Memory Controller
+-------------------------
+0:1:0
+Vendor ID: 10DE Nvidia Corp
+Device ID: 0080 nForce MCP2S PCI to ISA Bridge
+-------------------------
+0:1:1
+Vendor ID: 10DE Nvidia Corp
+Device ID: 0084 nForce MCP2S PCI System Management
+-------------------------
+0:2:0
+Vendor ID: 10DE Nvidia Corp
+Device ID: 0087 nForce MCP2A USB Controller
+-------------------------
+0:2:1
+Vendor ID: 10DE Nvidia Corp
+Device ID: 0087 nForce MCP2A USB Controller
+-------------------------
+0:2:2
+Vendor ID: 10DE Nvidia Corp
+Device ID: 0088 nForce MCP2A USB Controller
+-------------------------
+0:4:0
+Vendor ID: 10DE Nvidia Corp
+Device ID: 008C nForce Network Bus Enumerator
+-------------------------
+0:6:0
+Vendor ID: 10DE Nvidia Corp
+Device ID: 008A nForce AC'97 Audio Codec Interface
+-------------------------
+0:8:0
+Vendor ID: 10DE Nvidia Corp
+Device ID: 008B nforce MCP2A PCI Bridge
+-------------------------
+0:9:0
+Vendor ID: 10DE Nvidia Corp
+Device ID: 0085 nForce MCP2S Parallel ATA Controller
+-------------------------
+0:11:0
+Vendor ID: 10DE Nvidia Corp
+Device ID: 008E nForce MCP2S Serial ATA Compatible Controller
+-------------------------
+0:30:0
+Vendor ID: 10DE Nvidia Corp
+Device ID: 01E8 nForce2 AGP Bridge
+-------------------------
+2:0:0
+Vendor ID: 10DE Nvidia Corp
+Device ID: 0326 GeForce FX 5500 [NV34.6]

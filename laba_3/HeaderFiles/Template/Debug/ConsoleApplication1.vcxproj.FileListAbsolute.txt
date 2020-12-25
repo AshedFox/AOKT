@@ -1,0 +1,4 @@
+D:\univer\сем_3\ЯП\Template\Debug\ConsoleApplication1.exe
+D:\univer\сем_3\ЯП\Template\Debug\ConsoleApplication1.pdb
+D:\univer\сем_3\АОКТ\laba_3\Лабораторная №3_2020\HeaderFiles\Template\Debug\ConsoleApplication1.exe
+D:\univer\сем_3\АОКТ\laba_3\Лабораторная №3_2020\HeaderFiles\Template\Debug\ConsoleApplication1.pdb

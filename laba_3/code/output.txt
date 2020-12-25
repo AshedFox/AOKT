@@ -1,0 +1,200 @@
+0h:2h:0h
+Vendor ID: 15ADh, VMware
+Device ID: 0405h, SVGA II Adapter
+
+Not a bridge
+
+------TASK 1------
+Base class 03h
+00h  00h
+------TASK 3------
+BAR 1 is BASE I/O REGISTER
+	BASE ADDRESS: 3400h
+BAR 1 is BASE MEMORY REGISTER
+BAR 2 is BASE MEMORY REGISTER
+BAR 3 is BASE MEMORY REGISTER
+BAR 4 is BASE MEMORY REGISTER
+BAR 5 is BASE MEMORY REGISTER
+------TASK 6------
+Interrupt pin: INTA#
+---------------------------------------------------
+0h:3h:0h
+Vendor ID: 8086h, Intel Corporation
+Device ID: 100Eh, 82540EM Gigabit Ethernet Controller
+
+Not a bridge
+
+------TASK 1------
+Base class 02h
+00h  00h
+------TASK 3------
+BAR 0 is BASE MEMORY REGISTER
+BAR 1 is BASE MEMORY REGISTER
+BAR 3 is BASE I/O REGISTER
+	BASE ADDRESS: 3404h
+BAR 3 is BASE MEMORY REGISTER
+BAR 4 is BASE MEMORY REGISTER
+BAR 5 is BASE MEMORY REGISTER
+------TASK 6------
+Interrupt pin: INTA#
+---------------------------------------------------
+0h:4h:0h
+Vendor ID: 80EEh, InnoTek Systemberatung GmbH
+Device ID: FFFFCAFEh, unknown device
+
+Not a bridge
+
+------TASK 1------
+Base class 08h
+80h  00h
+------TASK 3------
+BAR 1 is BASE I/O REGISTER
+	BASE ADDRESS: 3408h
+BAR 1 is BASE MEMORY REGISTER
+BAR 2 is BASE MEMORY REGISTER
+BAR 3 is BASE MEMORY REGISTER
+BAR 4 is BASE MEMORY REGISTER
+BAR 5 is BASE MEMORY REGISTER
+------TASK 6------
+Interrupt pin: INTA#
+---------------------------------------------------
+0h:5h:0h
+Vendor ID: 8086h, Intel Corporation
+Device ID: 2668h, 82801FB/FBM/FR/FW/FRW (ICH6 Family) High Definition Audio Controller
+
+Not a bridge
+
+------TASK 1------
+Base class 04h
+03h  00h
+------TASK 3------
+BAR 0 is BASE MEMORY REGISTER
+BAR 1 is BASE MEMORY REGISTER
+BAR 2 is BASE MEMORY REGISTER
+BAR 3 is BASE MEMORY REGISTER
+BAR 4 is BASE MEMORY REGISTER
+BAR 5 is BASE MEMORY REGISTER
+------TASK 6------
+Interrupt pin: INTA#
+---------------------------------------------------
+0h:7h:0h
+Vendor ID: 8086h, Intel Corporation
+Device ID: 7113h, 82371AB/EB/MB PIIX4 ACPI
+
+Not a bridge
+
+------TASK 1------
+Base class 06h
+80h  00h
+------TASK 3------
+BAR 0 is BASE MEMORY REGISTER
+BAR 1 is BASE MEMORY REGISTER
+BAR 2 is BASE MEMORY REGISTER
+BAR 3 is BASE MEMORY REGISTER
+BAR 4 is BASE MEMORY REGISTER
+BAR 5 is BASE MEMORY REGISTER
+------TASK 6------
+Interrupt pin: INTA#
+---------------------------------------------------
+0h:8h:0h
+Vendor ID: 1AF4h, Red Hat, Inc.
+Device ID: 1000h, Virtio network device
+
+Not a bridge
+
+------TASK 1------
+Base class 02h
+00h  00h
+------TASK 3------
+BAR 1 is BASE I/O REGISTER
+	BASE ADDRESS: 3410h
+BAR 1 is BASE MEMORY REGISTER
+BAR 2 is BASE MEMORY REGISTER
+BAR 3 is BASE MEMORY REGISTER
+BAR 4 is BASE MEMORY REGISTER
+BAR 5 is BASE MEMORY REGISTER
+------TASK 6------
+Interrupt pin: INTA#
+---------------------------------------------------
+0h:1Fh:0h
+Vendor ID: 8086h, Intel Corporation
+Device ID: 27B9h, 82801GBM (ICH7-M) LPC Interface Bridge
+
+Not a bridge
+
+------TASK 1------
+Base class 06h
+01h  00h
+------TASK 3------
+BAR 0 is BASE MEMORY REGISTER
+BAR 1 is BASE MEMORY REGISTER
+BAR 2 is BASE MEMORY REGISTER
+BAR 3 is BASE MEMORY REGISTER
+BAR 4 is BASE MEMORY REGISTER
+BAR 5 is BASE MEMORY REGISTER
+------TASK 6------
+Interrupt pin: Not used
+---------------------------------------------------
+0h:1Fh:1h
+Vendor ID: 8086h, Intel Corporation
+Device ID: 7111h, 82371AB/EB/MB PIIX4 IDE
+
+Not a bridge
+
+------TASK 1------
+Base class 01h
+01h  8Ah
+------TASK 3------
+BAR 0 is BASE MEMORY REGISTER
+BAR 1 is BASE MEMORY REGISTER
+BAR 2 is BASE MEMORY REGISTER
+BAR 3 is BASE MEMORY REGISTER
+BAR 5 is BASE I/O REGISTER
+	BASE ADDRESS: 3418h
+BAR 5 is BASE MEMORY REGISTER
+------TASK 6------
+Interrupt pin: Not used
+---------------------------------------------------
+0h:1Fh:2h
+Vendor ID: 8086h, Intel Corporation
+Device ID: 2829h, 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]
+
+Not a bridge
+
+------TASK 1------
+Base class 01h
+06h  01h
+------TASK 3------
+BAR 1 is BASE I/O REGISTER
+	BASE ADDRESS: 341Ch
+BAR 2 is BASE I/O REGISTER
+	BASE ADDRESS: 341Eh
+BAR 3 is BASE I/O REGISTER
+	BASE ADDRESS: 3420h
+BAR 4 is BASE I/O REGISTER
+	BASE ADDRESS: 3422h
+BAR 5 is BASE I/O REGISTER
+	BASE ADDRESS: 3424h
+BAR 5 is BASE MEMORY REGISTER
+------TASK 6------
+Interrupt pin: INTA#
+---------------------------------------------------
+0h:1Fh:4h
+Vendor ID: 106Bh, Apple Inc.
+Device ID: 003Fh, KeyLargo/Intrepid USB
+
+Not a bridge
+
+------TASK 1------
+Base class 0Ch
+03h  10h
+------TASK 3------
+BAR 0 is BASE MEMORY REGISTER
+BAR 1 is BASE MEMORY REGISTER
+BAR 2 is BASE MEMORY REGISTER
+BAR 3 is BASE MEMORY REGISTER
+BAR 4 is BASE MEMORY REGISTER
+BAR 5 is BASE MEMORY REGISTER
+------TASK 6------
+Interrupt pin: INTA#
+---------------------------------------------------
